@@ -1,0 +1,13 @@
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp02-dictionaries\src\DictionaryExample\obj\Debug\netcoreapp3.1\DictionaryExample.csprojAssemblyReference.cache
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp02-dictionaries\src\DictionaryExample\obj\Debug\netcoreapp3.1\DictionaryExample.csproj.CoreCompileInputs.cache
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp02-dictionaries\src\DictionaryExample\obj\Debug\netcoreapp3.1\DictionaryExample.AssemblyInfoInputs.cache
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp02-dictionaries\src\DictionaryExample\obj\Debug\netcoreapp3.1\DictionaryExample.AssemblyInfo.cs
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp02-dictionaries\src\DictionaryExample\bin\Debug\netcoreapp3.1\DictionaryExample.exe
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp02-dictionaries\src\DictionaryExample\bin\Debug\netcoreapp3.1\DictionaryExample.deps.json
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp02-dictionaries\src\DictionaryExample\bin\Debug\netcoreapp3.1\DictionaryExample.runtimeconfig.json
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp02-dictionaries\src\DictionaryExample\bin\Debug\netcoreapp3.1\DictionaryExample.runtimeconfig.dev.json
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp02-dictionaries\src\DictionaryExample\bin\Debug\netcoreapp3.1\DictionaryExample.dll
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp02-dictionaries\src\DictionaryExample\bin\Debug\netcoreapp3.1\DictionaryExample.pdb
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp02-dictionaries\src\DictionaryExample\obj\Debug\netcoreapp3.1\DictionaryExample.dll
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp02-dictionaries\src\DictionaryExample\obj\Debug\netcoreapp3.1\DictionaryExample.pdb
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp02-dictionaries\src\DictionaryExample\obj\Debug\netcoreapp3.1\DictionaryExample.genruntimeconfig.cache
