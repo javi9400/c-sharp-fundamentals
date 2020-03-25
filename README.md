@@ -12,7 +12,7 @@ Here are a few definitions
   
   
   # Dictionaries
- Lists in c#
+ Dictionaries in c#
   - Great for direct look-up 
   - Accesed by key
   - Faster than Lists if you are searching something
