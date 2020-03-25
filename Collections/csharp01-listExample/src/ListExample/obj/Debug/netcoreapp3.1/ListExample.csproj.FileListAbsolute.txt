@@ -1,0 +1,13 @@
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp01-listExample\src\ListExample\obj\Debug\netcoreapp3.1\ListExample.csprojAssemblyReference.cache
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp01-listExample\src\ListExample\obj\Debug\netcoreapp3.1\ListExample.csproj.CoreCompileInputs.cache
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp01-listExample\src\ListExample\obj\Debug\netcoreapp3.1\ListExample.AssemblyInfoInputs.cache
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp01-listExample\src\ListExample\obj\Debug\netcoreapp3.1\ListExample.AssemblyInfo.cs
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp01-listExample\src\ListExample\bin\Debug\netcoreapp3.1\ListExample.exe
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp01-listExample\src\ListExample\bin\Debug\netcoreapp3.1\ListExample.deps.json
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp01-listExample\src\ListExample\bin\Debug\netcoreapp3.1\ListExample.runtimeconfig.json
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp01-listExample\src\ListExample\bin\Debug\netcoreapp3.1\ListExample.runtimeconfig.dev.json
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp01-listExample\src\ListExample\bin\Debug\netcoreapp3.1\ListExample.dll
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp01-listExample\src\ListExample\bin\Debug\netcoreapp3.1\ListExample.pdb
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp01-listExample\src\ListExample\obj\Debug\netcoreapp3.1\ListExample.dll
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp01-listExample\src\ListExample\obj\Debug\netcoreapp3.1\ListExample.pdb
+C:\Users\Devjm\Documents\Dev\C#\c-sharp-fundamentals\Collections\csharp01-listExample\src\ListExample\obj\Debug\netcoreapp3.1\ListExample.genruntimeconfig.cache
