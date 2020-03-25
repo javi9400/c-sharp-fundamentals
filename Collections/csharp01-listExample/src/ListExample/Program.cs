@@ -7,7 +7,7 @@ namespace ListExample
     {
         static void Main(string[] args)
         {
-            const string PATH=@"YOUR PATH"; // copy path of file and paste it here
+            const string PATH=@"YOUR PATH"; // copy path of file countries_stats.csv located in the source folder and paste it here
 
             CsvReader reader= new CsvReader(PATH);
             
