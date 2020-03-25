@@ -14,7 +14,6 @@ namespace ListExample.commons
         public string Path { get; set; }
         public List<Country> Countries { get; set; }
 
-
         public List<Country> readAllCountries()
         {
             using(var reader=new StreamReader(Path))

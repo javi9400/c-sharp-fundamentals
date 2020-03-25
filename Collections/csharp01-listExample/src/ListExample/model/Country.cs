@@ -11,6 +11,7 @@ namespace ListExample.model
     public Country(string name, string code, string continent, int population)
     {
         this.Name = name;
+    
         this.Code = code;
         this.Continent = continent;
         this.Population = population;

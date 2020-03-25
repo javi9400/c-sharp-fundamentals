@@ -11,7 +11,6 @@ namespace ListExample
 
             CsvReader reader= new CsvReader(PATH);
             
-            
             var countriesResult=reader.readAllCountries();
 
             foreach (var country in countriesResult)
