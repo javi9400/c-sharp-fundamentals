@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DDGqIUvoWdZj8DcLaVMjNRLE1kVi9JkYalswhhdanVJG2dgPudrkGngI1KYaRq3PaP7XnKbzZd4OBH2poywHPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Devjm\\Documents\\Dev\\C#\\c-sharp-fundamentals\\OPP\\armena\\src\\armena.UI\\armena.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Devjm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Devjm\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
