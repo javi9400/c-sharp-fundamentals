@@ -28,14 +28,6 @@ namespace armena.BL.Model
             return isValid;
         }
 
-      public Product Retrieve(){
-          return new Product();
-      }
-
-      public bool Save(){
-          return true;
-      }
-
 
     }
 }
