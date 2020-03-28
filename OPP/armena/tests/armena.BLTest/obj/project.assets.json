@@ -3521,19 +3521,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Devjm\\.nuget\\packages\\": {}
+    "/Users/javiermayorga/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Devjm\\Documents\\Dev\\C#\\c-sharp-fundamentals\\OPP\\armena\\tests\\armena.BLTest\\armena.BLTest.csproj",
+      "projectUniqueName": "/Users/javiermayorga/Documents/Dev/c-sharp-fundamentals/OPP/armena/tests/armena.BLTest/armena.BLTest.csproj",
       "projectName": "armena.BLTest",
-      "projectPath": "C:\\Users\\Devjm\\Documents\\Dev\\C#\\c-sharp-fundamentals\\OPP\\armena\\tests\\armena.BLTest\\armena.BLTest.csproj",
-      "packagesPath": "C:\\Users\\Devjm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Devjm\\Documents\\Dev\\C#\\c-sharp-fundamentals\\OPP\\armena\\tests\\armena.BLTest\\obj\\",
+      "projectPath": "/Users/javiermayorga/Documents/Dev/c-sharp-fundamentals/OPP/armena/tests/armena.BLTest/armena.BLTest.csproj",
+      "packagesPath": "/Users/javiermayorga/.nuget/packages/",
+      "outputPath": "/Users/javiermayorga/Documents/Dev/c-sharp-fundamentals/OPP/armena/tests/armena.BLTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Devjm\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/javiermayorga/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -3544,8 +3544,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Devjm\\Documents\\Dev\\C#\\c-sharp-fundamentals\\OPP\\armena\\src\\armena.BL\\armena.BL.csproj": {
-              "projectPath": "C:\\Users\\Devjm\\Documents\\Dev\\C#\\c-sharp-fundamentals\\OPP\\armena\\src\\armena.BL\\armena.BL.csproj"
+            "/Users/javiermayorga/Documents/Dev/c-sharp-fundamentals/OPP/armena/src/armena.BL/armena.BL.csproj": {
+              "projectPath": "/Users/javiermayorga/Documents/Dev/c-sharp-fundamentals/OPP/armena/src/armena.BL/armena.BL.csproj"
             }
           }
         }
@@ -3591,7 +3591,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
       }
     }
   }
