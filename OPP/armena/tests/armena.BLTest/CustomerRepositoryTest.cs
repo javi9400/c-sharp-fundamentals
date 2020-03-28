@@ -1,3 +1,5 @@
+using armena.BL.Model;
+using armena.BL.Repository;
 using Xunit;
 
 namespace armena.BLTest
@@ -8,11 +10,14 @@ namespace armena.BLTest
         public void TestingRetrieveMethod()
         {
             //Arrange
-            Customer customer= new Customer(1,"luke","Skywalker","theDarkForceRules@hotmail.com");
+            CustomerRepository repo= new CustomerRepository();
+
             //act
+            var actual=repo.Retrieve(1);
+            var expectedCustomer= new Customer(1,"luke","Skywalker","theDarkForceRules@hotmail.com");
 
             //assert
-
+            Assert.Equal(actual.FirstName,expectedCustomer.FirstName);
 
         }
     }

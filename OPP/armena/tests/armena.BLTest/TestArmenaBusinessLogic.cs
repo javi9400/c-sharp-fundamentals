@@ -1,6 +1,6 @@
 using System;
 using Xunit;
-using armena.BL;
+using armena.BL.Model;
 
 namespace armena.BLTest
 {
