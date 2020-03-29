@@ -27,12 +27,5 @@ namespace armena.BL.Model
             return isValid;
         }
 
-      public Order Retrieve(){
-          return new Order();
-      }
-
-      public bool Save(){
-          return true;
-      }
     }
 }
