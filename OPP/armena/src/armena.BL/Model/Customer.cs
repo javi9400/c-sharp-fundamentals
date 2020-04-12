@@ -1,14 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using armena.Commons;
 
 namespace armena.BL.Model
 {
-    public class Customer
+    public class Customer:EntityBase,ILoggable
     {
         public int CustomerId { get; private set; }
         public string LastName { get; set; }
         public string FirstName { get; set; }
-
+        public int CustomerType { get; set; }
+        public List<Address> AddressList { get; set; }
         public string FullName
         {
             
@@ -36,6 +38,7 @@ namespace armena.BL.Model
             this.LastName = lastName;
             this.FirstName = firstName;
             this.EmailAddress = emailAddress;
+            this.AddressList=new List<Address>();
 
         }
         public Customer()
@@ -43,7 +46,7 @@ namespace armena.BL.Model
             
         }
 
-        public bool Validate(){
+        public override bool Validate(){
 
             var isValid=true;
 
@@ -59,5 +62,7 @@ namespace armena.BL.Model
             
             return new List<Customer>();
         }
+
+        public string Log()=>$"CustomerId: {CustomerId}, CustomerName {FirstName}, Status {EntityState.ToString()}";
     }
 }

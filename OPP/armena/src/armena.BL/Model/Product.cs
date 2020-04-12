@@ -1,13 +1,13 @@
 namespace armena.BL.Model
 {
-    public class Product
+    public class Product:EntityBase
     {
 
         public int ProductId{get; private set;}
         public string Name { get; set; }
         public string Description { get; set; }
 
-        public decimal? CurrentPrice { get;  set; }
+        public decimal? CurrentPrice { get;  set; }        
 
         public Product(int productId)
         {
@@ -17,7 +17,7 @@ namespace armena.BL.Model
         {
             
         }
-        public bool Validate()
+        public override bool Validate()
         {
             var isValid=true;
 
@@ -26,6 +26,30 @@ namespace armena.BL.Model
             if(CurrentPrice==null) return false;
 
             return isValid;
+        }
+
+        public bool Save(Product product)
+        {
+            var sucess=true;
+
+            if(product.HasChanges)
+            {
+                if(product.IsValid)
+                {
+                    if(product.IsNew)
+                    {
+                            //call insert
+                    }
+                    else
+                    {
+                            //call update
+                    }
+                }
+                else{
+                    sucess=false;
+                }
+            }
+            return sucess;
         }
 
 

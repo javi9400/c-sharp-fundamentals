@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using armena.BL.Model;
 
 namespace armena.BL.Model
@@ -6,14 +7,19 @@ namespace armena.BL.Model
     public class Order
     {
         public int OrderId { get; set; }
-        public Customer Customer { get; set; }
+        public int CustomerId { get; set; }
+        public int ShippingAddressId { get; set; }
+
+        public List<OrderItem> OrderItems { get; set; }
+
         public DateTimeOffset? OrderDate { get; set; }
         
         public Order(int orderId)
         {
             OrderId=orderId;
+            this.OrderItems=new List<OrderItem>();
         }
-        public Order()
+        public Order():this(0)
         {
             
         }

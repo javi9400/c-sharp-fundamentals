@@ -1,0 +1,8 @@
+/Users/javiermayorga/Documents/Dev/c-sharp-fundamentals/OPP/armena/src/armena.Commons/bin/Debug/netstandard2.0/armena.Commons.deps.json
+/Users/javiermayorga/Documents/Dev/c-sharp-fundamentals/OPP/armena/src/armena.Commons/bin/Debug/netstandard2.0/armena.Commons.dll
+/Users/javiermayorga/Documents/Dev/c-sharp-fundamentals/OPP/armena/src/armena.Commons/bin/Debug/netstandard2.0/armena.Commons.pdb
+/Users/javiermayorga/Documents/Dev/c-sharp-fundamentals/OPP/armena/src/armena.Commons/obj/Debug/netstandard2.0/armena.Commons.csprojAssemblyReference.cache
+/Users/javiermayorga/Documents/Dev/c-sharp-fundamentals/OPP/armena/src/armena.Commons/obj/Debug/netstandard2.0/armena.Commons.AssemblyInfoInputs.cache
+/Users/javiermayorga/Documents/Dev/c-sharp-fundamentals/OPP/armena/src/armena.Commons/obj/Debug/netstandard2.0/armena.Commons.AssemblyInfo.cs
+/Users/javiermayorga/Documents/Dev/c-sharp-fundamentals/OPP/armena/src/armena.Commons/obj/Debug/netstandard2.0/armena.Commons.dll
+/Users/javiermayorga/Documents/Dev/c-sharp-fundamentals/OPP/armena/src/armena.Commons/obj/Debug/netstandard2.0/armena.Commons.pdb

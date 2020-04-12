@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "armena.Commons/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/armena.Commons.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/armena.Commons.dll": {}
+        }
       }
     }
   },
@@ -172,11 +182,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "armena.Commons/1.0.0": {
+      "type": "project",
+      "path": "../armena.Commons/armena.Commons.csproj",
+      "msbuildProject": "../armena.Commons/armena.Commons.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "armena.Commons >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -202,7 +218,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/javiermayorga/Documents/Dev/c-sharp-fundamentals/OPP/armena/src/armena.Commons/armena.Commons.csproj": {
+              "projectPath": "/Users/javiermayorga/Documents/Dev/c-sharp-fundamentals/OPP/armena/src/armena.Commons/armena.Commons.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

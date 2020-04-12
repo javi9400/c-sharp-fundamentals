@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../tests/armena.CommonsTests"
+		},
+		{
+			"path": "../../armena.Commons"
+		}
+	],
+	"settings": {}
+}
